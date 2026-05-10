@@ -6,7 +6,7 @@
 
 ​        这个工具还支持多人共享，只要局域网内IP能互通，一个人运行下这个python文件，其他人可以通过电脑浏览器打个IP地址加端口号或者手机直接扫码交流、传送信息、工作文件及截图。
 
-| ![Interface1](imgs/Interface1-1778428096809-4.PNG) | ![Interface2](imgs/Interface2.PNG) |
+| ![Interface1](imgs/Interface1.PNG) | ![Interface2](imgs/Interface2.PNG) |
 | ---------------------------------------------------- | ------------------------------------ |
 
 ---
